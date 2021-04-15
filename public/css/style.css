@@ -1,0 +1,12 @@
+body{
+    background-color: #eceff1;
+}
+.logo-brand{
+    width: 85px;
+    margin: 0;
+    padding: 0;
+}
+.desc{
+    border-left: solid 5px #c4c4c4;
+    padding-left: 10px;
+}
